@@ -3,12 +3,7 @@ In a truth table, each statement is typically represented by a letter or variabl
 
 Sample Truth Table
   p	  q	    p ^ q
-  ----------------
   T	  T	      T
-  ----------------
   T	  F	      F
-  ----------------
   F	  T	      F
-  ----------------
   F	  F	      F
-  ----------------
