@@ -1,0 +1,9 @@
+Conic sections are curves obtained by intersecting a plane with a double-napped right circular cone. There are four basic types of conic sections: circles, ellipses, hyperbolas, and parabolas. The shape and orientation of these curves are based on three important features: the focus, directrix, and eccentricity. The focus is a fixed point, the directrix is a fixed line, and the eccentricity is a constant ratio of the distance of a point on the curve from the focus and directrix. The eccentricity is used to uniquely define the shape of a conic section, and it is a non-negative real number that lies between 0 and 1 for an ellipse, is equal to 1 for a parabola, and is greater than 1 for a hyperbola.
+
+Here are some examples of each type of conic section:
+•	Circle: The set of all points in a plane that are equidistant from a fixed point called the center. The equation of a circle with center (h,k) and radius r is (x-h)^2 + (y-k)^2 = r^2.
+•	Ellipse: The set of all points in a plane such that the sum of the distances from two fixed points, called the foci, is constant. The equation of an ellipse with center (h,k), semi-major axis a, and semi-minor axis b is (x-h)^2/a^2 + (y-k)^2/b^2 = 1.
+•	Hyperbola: The set of all points in a plane such that the difference of the distances from two fixed points, called the foci, is constant. The equation of a hyperbola with center (h,k), semi-major axis a, and semi-minor axis b is (x-h)^2/a^2 - (y-k)^2/b^2 = 1.
+•	Parabola: The set of all points in a plane that are equidistant from a fixed point, called the focus, and a fixed line, called the directrix. The equation of a parabola with vertex (h,k) and focus (h,k+p) is (y-k)^2 = 4p(x-h).
+
+Conic sections have many applications in mathematics, physics, and engineering. For example, they are used to describe the orbits of planets and other celestial bodies, the shapes of mirrors and lenses, and the trajectories of projectiles.
